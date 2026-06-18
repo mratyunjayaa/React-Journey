@@ -77,6 +77,10 @@ git clone https://github.com/mratyunjayaa/React-Journey
 ```bash
 npm install
 ```
+### Go to Day03 Directory
+```bash
+cd Day03
+```
 
 ### Run the Project
 
