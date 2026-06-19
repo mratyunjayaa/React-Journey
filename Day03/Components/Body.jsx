@@ -21,14 +21,14 @@ function Body() {
 
     return (
         <div className="but">
-            <input type="number" className="inpu" placeholder="Search Here..." value={noofprofile} onChange={(e) => {
+            <input type="number" className="inpu" placeholder="Profiles to Display in Dashboard " value={noofprofile} onChange={(e) => {
                 setNoofprofile(e.target.value)
             }} />
             <button
                 onClick={() => genearteprofile(Number(noofprofile))}
                 className="bit"
             >
-                Search Profile
+                Click Here
             </button>
 
 
