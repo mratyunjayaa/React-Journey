@@ -69,7 +69,7 @@ While building this project, I practiced and improved my understanding of:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/mratyunjayaa/React-Journey
+git clone https://github.com/mratyunjayaa/React-Journey/tree/main/Day03
 ```
 
 ### Install Dependencies
